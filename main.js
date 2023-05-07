@@ -5,4 +5,5 @@ let a = {
     country: 'Russia',
     married: 'yes'
 }
-console.log(a.name, 'Is he married?', a.married)
+a.childe = 0
+console.log(a.name,a.childe)
