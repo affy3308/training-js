@@ -6,5 +6,5 @@ let a = {
     married: 'yes'
 }
 let childe = 'дети'
-a[childe] = 0
+a[childe] = '0'
 console.log(a)
